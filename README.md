@@ -1,4 +1,4 @@
-# calc-exam-1
+# calc-exam-2
 
 # 목표
 - 브랜치를 이용해 기능을 구현하고 merge하는 방법 익히기
